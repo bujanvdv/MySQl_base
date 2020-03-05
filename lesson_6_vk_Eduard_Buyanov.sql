@@ -31,6 +31,7 @@ SELECT  count(*) AS total_likes
 	
     FROM likes
 	GROUP BY gender
+	
   	
   	
   	
